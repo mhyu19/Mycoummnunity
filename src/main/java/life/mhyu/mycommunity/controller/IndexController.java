@@ -1,4 +1,4 @@
-package com.mhyu.mycommunity.controller;
+package life.mhyu.mycommunity.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
